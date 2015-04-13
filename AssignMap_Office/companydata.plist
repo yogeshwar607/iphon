@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chennai</key>
+	<dict>
+		<key>address</key>
+		<string>chennai, tamilnadu</string>
+		<key>latitude</key>
+		<real>13.080001</real>
+		<key>longitude</key>
+		<real>80.283798</real>
+		<key>distancefromheadoffice</key>
+		<string>2000</string>
+	</dict>
+	<key>hyderabad</key>
+	<dict>
+		<key>address</key>
+		<string>hyderabad, telangana</string>
+		<key>latitude</key>
+		<real>17.401771</real>
+		<key>longitude</key>
+		<real>78.379133</real>
+		<key>distancefromheadoffice</key>
+		<string>1800</string>
+	</dict>
+	<key>kolkata</key>
+	<dict>
+		<key>address</key>
+		<string>kolkata,westbengal</string>
+		<key>latitude</key>
+		<real>22.561428</real>
+		<key>longitude</key>
+		<real>88.358108</real>
+		<key>distancefromheadoffice</key>
+		<string>1500</string>
+	</dict>
+	<key>pune</key>
+	<dict>
+		<key>address</key>
+		<string>pune, maharashtra</string>
+		<key>latitude</key>
+		<real>18.561399</real>
+		<key>longitude</key>
+		<real>73.81098299999999</real>
+		<key>distancefromheadoffice</key>
+		<string>1200</string>
+	</dict>
+	<key>delhi</key>
+	<dict>
+		<key>address</key>
+		<string>delhi,delhi</string>
+		<key>latitude</key>
+		<real>28.631123</real>
+		<key>longitude</key>
+		<real>77.223144</real>
+		<key>distancefromheadoffice</key>
+		<string></string>
+	</dict>
+</dict>
+</plist>

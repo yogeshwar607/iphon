@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ismarried</key>
+	<true/>
+	<key>age</key>
+	<integer>40</integer>
+	<key>firstname</key>
+	<string>bhaskar</string>
+	<key>phone</key>
+	<array>
+		<string>8976567890</string>
+		<string>2739993382</string>
+		<string>3322839393</string>
+	</array>
+	<key>lastname</key>
+	<string>vaddadi</string>
+	<key>address</key>
+	<dict>
+		<key>pincode</key>
+		<integer>0</integer>
+		<key>street</key>
+		<string>aundhgoan</string>
+		<key>city</key>
+		<string>pune</string>
+		<key>state</key>
+		<string>maharastra</string>
+	</dict>
+</dict>
+</plist>
